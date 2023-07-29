@@ -1,0 +1,147 @@
+﻿Model,Make,Fuel,EngineCylinders,AverageHighwayMPG,AverageCityMPG
+X4,Acura,Gasoline,4,35,25
+X5,Acura,Gasoline,6,28,21
+X6,Alfa Romeo,Gasoline,4,33,24
+X7,Alfa Romeo,Gasoline,6,24,17
+Z4,Aston Martin,Gasoline,12,19,12
+Enclave,Audi,Gasoline,4,30,23
+Encore,Audi,Gasoline,6,27,19
+Encore GX,Audi,Gasoline,8,26,17
+Envision,Audi,Gasoline,10,22,14
+Regal Sportback,Audi,Gasoline,4,32,24
+Regal TourX,Bentley,Gasoline,8,22,13
+CT4,Bentley,Gasoline,12,20,12
+CT5,BMW,Diesel,4,41,30
+CT6,BMW,Diesel,6,29,23
+CT6-V,BMW,Electricity,0,109,133
+Escalade,BMW,Gasoline,2,33,36
+Escalade ESV,BMW,Gasoline,3,29,28
+XT4,BMW,Gasoline,4,32,23
+XT5,BMW,Gasoline,6,28,19
+XT6,BMW,Gasoline,8,23,15
+Blazer,BMW,Gasoline,12,20,13
+Bolt EV,Buick,Gasoline,4,27,20
+Camaro,Buick,Gasoline,4,31,23
+Colorado Crew Cab,Buick,Gasoline,6,26,18
+Colorado Extended Cab,Cadillac,Gasoline,4,30,22
+Corvette,Cadillac,Gasoline,6,25,17
+Equinox,Cadillac,Gasoline,8,21,14
+Express 2500 Cargo,Cadillac,Gasoline,4,32,22
+Express 3500 Cargo,Cadillac,Gasoline,6,26,18
+Impala,Cadillac,Gasoline,8,21,15
+Malibu,Chevrolet,Diesel,4,29,21
+Silverado 1500 Crew Cab,Chevrolet,Electricity,0,110,128
+Silverado 1500 Double Cab,Chevrolet,Gasoline,4,31,21
+Silverado 1500 Regular Cab,Chevrolet,Gasoline,8,23,15
+Silverado 2500 HD Crew Cab,Chevrolet,Gasoline,4,34,27
+Silverado 2500 HD Double Cab,Chevrolet,Gasoline,6,24,17
+Silverado 3500 HD Crew Cab,Chevrolet,Gasoline,8,21,15
+Sonic,Chrysler,Gasoline,8,25,16
+Spark,Chrysler,Gasoline,4,36,23
+Suburban,Chrysler,Gasoline,6,29,20
+Tahoe,Dodge,Gasoline,8,24,15
+Traverse,Dodge,Gasoline,8,23,14
+Trax,Dodge,Gasoline,10,19,12
+Pacifica,Dodge,Gasoline,4,25,19
+Pacifica Hybrid,Dodge,Gasoline,6,27,18
+Voyager,Ferrari,Gasoline,8,22,16
+Challenger,Ferrari,Gasoline,12,16,12
+Charger,Fiat,Electricity,0,103,121
+Durango,Fiat,Gasoline,4,34,26
+Grand Caravan Passenger,Fiat,Gasoline,4,30,22
+Journey,Ford,Electricity,0,96,118
+124 Spider,Ford,Gasoline,4,25,19
+500L,Ford,Gasoline,6,18,11
+500X,Ford,Gasoline,8,21,14
+EcoSport,Ford,Gasoline,3,40,29
+Edge,Ford,Gasoline,4,31,24
+Escape,Ford,Gasoline,6,23,17
+Expedition,Ford,Gasoline,8,22,15
+Expedition MAX,Genesis,Gasoline,6,24,17
+Explorer,Genesis,Gasoline,8,23,15
+F150 Regular Cab,Genesis,Gasoline,6,27,17
+F150 Super Cab,GMC,Diesel,4,29,21
+F150 SuperCrew Cab,GMC,Gasoline,4,27,20
+F250 Super Duty Super Cab,GMC,Gasoline,6,23,17
+F350 Super Duty Crew Cab,GMC,Gasoline,8,21,15
+F350 Super Duty Super Cab,Honda,Gasoline,4,38,30
+F450 Super Duty Crew Cab,Honda,Gasoline,4,37,29
+Fusion,Honda,Gasoline,6,28,19
+Fusion Plug-in Hybrid,Hyundai,Electricity,0,122,150
+Mustang,Hyundai,Gasoline,4,34,27
+Ranger SuperCab,Hyundai,Gasoline,6,25,18
+Ranger SuperCrew,Infiniti,Gasoline,4,30,22
+Transit 250 Cargo Van,Infiniti,Gasoline,6,27,20
+Transit 350 Passenger Van,Infiniti,Gasoline,8,22,15
+Transit Connect Cargo Van,Infiniti,Gasoline,4,27,25
+Transit Connect Passenger Wagon,Jaguar,Diesel,4,39,30
+Sprinter 1500 Cargo,Jaguar,Gasoline,4,30,21
+Sprinter 1500 Passenger,Jaguar,Gasoline,6,26,18
+Sprinter 2500 Cargo,Jaguar,Gasoline,8,23,15
+Sprinter 2500 Passenger,Jeep,Gasoline,6,27,19
+Sprinter 3500 Cargo,Jeep,Gasoline,8,22,14
+Sprinter 3500XD Cargo,Jeep,Gasoline,4,31,24
+Sprinter 4500 Crew,Jeep,Gasoline,8,19,13
+G70,Jeep,Gasoline,4,27,21
+G80,Jeep,Gasoline,6,22,17
+G90,Kia,Electricity,0,92,120
+Acadia,Kia,Gasoline,8,23,15
+Canyon Crew Cab,Kia,Gasoline,4,33,27
+Sierra 1500 Crew Cab,Kia,Gasoline,6,25,18
+Sierra 1500 Double Cab,Lamborghini,Gasoline,10,21,14
+Sierra 1500 Regular Cab,Lamborghini,Gasoline,12,17,10
+Sierra 2500 HD Crew Cab,Land Rover,Diesel,6,28,22
+Sierra 3500 HD Crew Cab,Land Rover,Gasoline,4,27,20
+Terrain,Land Rover,Gasoline,6,23,17
+Yukon,Land Rover,Gasoline,8,19,14
+Yukon XL,Lexus,Gasoline,4,30,22
+Accord,Lexus,Gasoline,6,28,21
+Accord Hybrid,Lexus,Gasoline,8,22,16
+Civic,Lexus,Gasoline,4,36,39
+Civic Type R,Lexus,Gasoline,6,28,20
+Clarity Fuel Cell,Lincoln,Gasoline,4,29,23
+Clarity Plug-in Hybrid,Lincoln,Gasoline,6,24,16
+CR-V,Lotus,Gasoline,6,24,17
+CR-V Hybrid,Maserati,Gasoline,6,24,16
+Fit,Maserati,Gasoline,8,20,14
+HR-V,Mazda,Gasoline,4,34,26
+Insight,Mazda,Gasoline,4,35,27
+Odyssey,McLaren Automotive,Gasoline,8,23,16
+Passport,Mercedes-Benz,Electricity,0,82,85
+Pilot,Mercedes-Benz,Gasoline,4,30,23
+Ridgeline,Mercedes-Benz,Gasoline,6,25,19
+Accent,Mercedes-Benz,Gasoline,8,22,16
+Elantra,Mercedes-Benz,Gasoline,12,20,13
+Elantra GT,MINI,Gasoline,4,33,24
+Ioniq Electric,Mitsubishi,Electricity,0,102,121
+Ioniq Hybrid,Mitsubishi,Gasoline,6,27,20
+Ioniq Plug-in Hybrid,Mitsubishi,Gasoline,3,42,35
+Kona,Mitsubishi,Gasoline,4,31,24
+Kona Electric,Nissan,Electricity,0,101,124
+NEXO,Nissan,Gasoline,4,31,26
+Palisade,Nissan,Gasoline,6,26,18
+Santa Fe,Nissan,Gasoline,4,33,26
+Sonata,Nissan,Gasoline,6,25,18
+Sonata Hybrid,Nissan,Gasoline,8,20,14
+Tucson,Porsche,Gasoline,4,27,21
+Veloster,Porsche,Gasoline,6,26,19
+Venue,Porsche,Gasoline,8,21,14
+Q50,Ram,Gasoline,8,21,14
+Q60,Ram,Gasoline,4,28,21
+QX50,Ram,Gasoline,6,24,17
+QX60,Rolls-Royce,Gasoline,12,19,12
+QX80,Roush Performance,Gasoline,8,23,14
+E-PACE,smart,Gasoline,3,39,32
+F-PACE,Subaru,Gasoline,4,27,21
+F-TYPE,Subaru,Gasoline,4,33,25
+I-PACE,Subaru,Gasoline,6,28,20
+XE,Tesla,Electricity,0,98,92
+XF,Toyota,Gasoline,4,30,23
+Cherokee,Toyota,Gasoline,4,35,32
+Compass,Toyota,Gasoline,6,25,20
+Gladiator,Toyota,Gasoline,8,18,13
+Grand Cherokee,Volkswagen,Gasoline,4,28,21
+Renegade,Volkswagen,Gasoline,4,33,24
+Wrangler Unlimited,Volkswagen,Gasoline,6,25,18
+Cadenza,Volvo,Gasoline,4,29,22
+Forte,Volvo,Gasoline,4,32,23
