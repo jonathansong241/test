@@ -20,18 +20,15 @@
 
 
 <html>
-<!-- <script src='https://d3js.org/d3.v5.min.js'%3E</script> -->
-<style> path {stroke: black;}</style>
-<body>
+<script src='https://d3js.org/d3.v5.min.js'></script>
+<style> circle {fill: lightblue; stroke: black;} </style>
+<body onload='init()'>
 <svg width=300 height=300>
 </svg>
 <script>
-var data = [4,8,15,16,23,42];
-var color = ['pink','lightyellow','lightgreen','lightcyan','lightblue','violet'];
-var pie = d3.pie();
+async function init() {
 
-
-  var margin = {top: 20, right: 20, bottom: 30, left: 40},
+var margin = {top: 20, right: 20, bottom: 30, left: 40},
     width = 960 - margin.left - margin.right,
     height = 500 - margin.top - margin.bottom;
 
@@ -79,8 +76,7 @@ d3.csv("carstest.csv", function(error, data) {
       .attr("d", d3.svg.symbol().type("triangle-up"))
       .attr("transform", function(d) { return "translate(" + x(d.x) + "," + y(d.y) + ")"; });
 });
-
-  
+}
 </script>
 </body>
 </html>
