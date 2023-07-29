@@ -117,7 +117,7 @@ d3.csv("https://github.com/jonathansong241/NarrativeVisualization/blob/main/cars
       .attr("cx", function (d) { return x(d.EngineCylinders); } )
       .attr("cy", function (d) { return y(d.AverageHighwayMPG); } )
       .attr("r", 5)
-      .style("fill", function (d) { return color(d.Species) } )
+      .style("fill", function (d) { return color(d.Make) } )
 
 })
 
