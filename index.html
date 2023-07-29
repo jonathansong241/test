@@ -69,7 +69,7 @@ d3.csv("https://github.com/jonathansong241/NarrativeVisualization/blob/main/cars
 
   // Add X axis
   var x = d3.scaleLinear()
-    .domain([0, 122])
+    .domain([0, 12])
     .range([ 0, width ])
   svg.append("g")
     .attr("transform", "translate(0," + height + ")")
@@ -78,7 +78,7 @@ d3.csv("https://github.com/jonathansong241/NarrativeVisualization/blob/main/cars
 
   // Add Y axis
   var y = d3.scaleLinear()
-    .domain([0, 12])
+    .domain([0, 122])
     .range([ height, 0])
     .nice()
   svg.append("g")
