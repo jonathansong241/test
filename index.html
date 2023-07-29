@@ -90,7 +90,7 @@ d3.csv("https://raw.githubusercontent.com/holtzy/D3-graph-gallery/master/DATA/ir
       .attr("text-anchor", "end")
       .attr("x", width/2 + margin.left)
       .attr("y", height + margin.top + 20)
-      .text("Sepal Length");
+      .text("Engine Cylinders");
 
   // Y axis label:
   svg.append("text")
@@ -98,7 +98,7 @@ d3.csv("https://raw.githubusercontent.com/holtzy/D3-graph-gallery/master/DATA/ir
       .attr("transform", "rotate(-90)")
       .attr("y", -margin.left + 20)
       .attr("x", -margin.top - height/2 + 20)
-      .text("Petal Length")
+      .text("Average Highway MPG")
 
   // Color scale: give me a specie name, I return a color
   var color = d3.scaleOrdinal()
@@ -111,8 +111,8 @@ d3.csv("https://raw.githubusercontent.com/holtzy/D3-graph-gallery/master/DATA/ir
     .data(data)
     .enter()
     .append("circle")
-      .attr("cx", function (d) { return x(d.Sepal_Length); } )
-      .attr("cy", function (d) { return y(d.Petal_Length); } )
+      .attr("cx", function (d) { return x(d.EngineCylinders); } )
+      .attr("cy", function (d) { return y(d.AverageHighwayMPG); } )
       .attr("r", 5)
       .style("fill", function (d) { return color(d.Species) } )
 
