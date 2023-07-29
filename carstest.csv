@@ -1,0 +1,439 @@
+group,x ,y
+cylinders vs highway mpg,4,35
+cylinders vs highway mpg,6,28
+cylinders vs highway mpg,4,33
+cylinders vs highway mpg,6,24
+cylinders vs highway mpg,12,19
+cylinders vs highway mpg,4,30
+cylinders vs highway mpg,6,27
+cylinders vs highway mpg,8,26
+cylinders vs highway mpg,10,22
+cylinders vs highway mpg,4,32
+cylinders vs highway mpg,8,22
+cylinders vs highway mpg,12,20
+cylinders vs highway mpg,4,41
+cylinders vs highway mpg,6,29
+cylinders vs highway mpg,0,109
+cylinders vs highway mpg,2,33
+cylinders vs highway mpg,3,29
+cylinders vs highway mpg,4,32
+cylinders vs highway mpg,6,28
+cylinders vs highway mpg,8,23
+cylinders vs highway mpg,12,20
+cylinders vs highway mpg,4,27
+cylinders vs highway mpg,4,31
+cylinders vs highway mpg,6,26
+cylinders vs highway mpg,4,30
+cylinders vs highway mpg,6,25
+cylinders vs highway mpg,8,21
+cylinders vs highway mpg,4,32
+cylinders vs highway mpg,6,26
+cylinders vs highway mpg,8,21
+cylinders vs highway mpg,4,29
+cylinders vs highway mpg,0,110
+cylinders vs highway mpg,4,31
+cylinders vs highway mpg,8,23
+cylinders vs highway mpg,4,34
+cylinders vs highway mpg,6,24
+cylinders vs highway mpg,8,21
+cylinders vs highway mpg,8,25
+cylinders vs highway mpg,4,36
+cylinders vs highway mpg,6,29
+cylinders vs highway mpg,8,24
+cylinders vs highway mpg,8,23
+cylinders vs highway mpg,10,19
+cylinders vs highway mpg,4,25
+cylinders vs highway mpg,6,27
+cylinders vs highway mpg,8,22
+cylinders vs highway mpg,12,16
+cylinders vs highway mpg,0,103
+cylinders vs highway mpg,4,34
+cylinders vs highway mpg,4,30
+cylinders vs highway mpg,0,96
+cylinders vs highway mpg,4,25
+cylinders vs highway mpg,6,18
+cylinders vs highway mpg,8,21
+cylinders vs highway mpg,3,40
+cylinders vs highway mpg,4,31
+cylinders vs highway mpg,6,23
+cylinders vs highway mpg,8,22
+cylinders vs highway mpg,6,24
+cylinders vs highway mpg,8,23
+cylinders vs highway mpg,6,27
+cylinders vs highway mpg,4,29
+cylinders vs highway mpg,4,27
+cylinders vs highway mpg,6,23
+cylinders vs highway mpg,8,21
+cylinders vs highway mpg,4,38
+cylinders vs highway mpg,4,37
+cylinders vs highway mpg,6,28
+cylinders vs highway mpg,0,122
+cylinders vs highway mpg,4,34
+cylinders vs highway mpg,6,25
+cylinders vs highway mpg,4,30
+cylinders vs highway mpg,6,27
+cylinders vs highway mpg,8,22
+cylinders vs highway mpg,4,27
+cylinders vs highway mpg,4,39
+cylinders vs highway mpg,4,30
+cylinders vs highway mpg,6,26
+cylinders vs highway mpg,8,23
+cylinders vs highway mpg,6,27
+cylinders vs highway mpg,8,22
+cylinders vs highway mpg,4,31
+cylinders vs highway mpg,8,19
+cylinders vs highway mpg,4,27
+cylinders vs highway mpg,6,22
+cylinders vs highway mpg,0,92
+cylinders vs highway mpg,8,23
+cylinders vs highway mpg,4,33
+cylinders vs highway mpg,6,25
+cylinders vs highway mpg,10,21
+cylinders vs highway mpg,12,17
+cylinders vs highway mpg,6,28
+cylinders vs highway mpg,4,27
+cylinders vs highway mpg,6,23
+cylinders vs highway mpg,8,19
+cylinders vs highway mpg,4,30
+cylinders vs highway mpg,6,28
+cylinders vs highway mpg,8,22
+cylinders vs highway mpg,4,36
+cylinders vs highway mpg,6,28
+cylinders vs highway mpg,4,29
+cylinders vs highway mpg,6,24
+cylinders vs highway mpg,6,24
+cylinders vs highway mpg,6,24
+cylinders vs highway mpg,8,20
+cylinders vs highway mpg,4,34
+cylinders vs highway mpg,4,35
+cylinders vs highway mpg,8,23
+cylinders vs highway mpg,0,82
+cylinders vs highway mpg,4,30
+cylinders vs highway mpg,6,25
+cylinders vs highway mpg,8,22
+cylinders vs highway mpg,12,20
+cylinders vs highway mpg,4,33
+cylinders vs highway mpg,0,102
+cylinders vs highway mpg,6,27
+cylinders vs highway mpg,3,42
+cylinders vs highway mpg,4,31
+cylinders vs highway mpg,0,101
+cylinders vs highway mpg,4,31
+cylinders vs highway mpg,6,26
+cylinders vs highway mpg,4,33
+cylinders vs highway mpg,6,25
+cylinders vs highway mpg,8,20
+cylinders vs highway mpg,4,27
+cylinders vs highway mpg,6,26
+cylinders vs highway mpg,8,21
+cylinders vs highway mpg,8,21
+cylinders vs highway mpg,4,28
+cylinders vs highway mpg,6,24
+cylinders vs highway mpg,12,19
+cylinders vs highway mpg,8,23
+cylinders vs highway mpg,3,39
+cylinders vs highway mpg,4,27
+cylinders vs highway mpg,4,33
+cylinders vs highway mpg,6,28
+cylinders vs highway mpg,0,98
+cylinders vs highway mpg,4,30
+cylinders vs highway mpg,4,35
+cylinders vs highway mpg,6,25
+cylinders vs highway mpg,8,18
+cylinders vs highway mpg,4,28
+cylinders vs highway mpg,4,33
+cylinders vs highway mpg,6,25
+cylinders vs highway mpg,4,29
+cylinders vs highway mpg,4,32
+highway mpg vs city mpg,35,25
+highway mpg vs city mpg,28,21
+highway mpg vs city mpg,33,24
+highway mpg vs city mpg,24,17
+highway mpg vs city mpg,19,12
+highway mpg vs city mpg,30,23
+highway mpg vs city mpg,27,19
+highway mpg vs city mpg,26,17
+highway mpg vs city mpg,22,14
+highway mpg vs city mpg,32,24
+highway mpg vs city mpg,22,13
+highway mpg vs city mpg,20,12
+highway mpg vs city mpg,41,30
+highway mpg vs city mpg,29,23
+highway mpg vs city mpg,109,133
+highway mpg vs city mpg,33,36
+highway mpg vs city mpg,29,28
+highway mpg vs city mpg,32,23
+highway mpg vs city mpg,28,19
+highway mpg vs city mpg,23,15
+highway mpg vs city mpg,20,13
+highway mpg vs city mpg,27,20
+highway mpg vs city mpg,31,23
+highway mpg vs city mpg,26,18
+highway mpg vs city mpg,30,22
+highway mpg vs city mpg,25,17
+highway mpg vs city mpg,21,14
+highway mpg vs city mpg,32,22
+highway mpg vs city mpg,26,18
+highway mpg vs city mpg,21,15
+highway mpg vs city mpg,29,21
+highway mpg vs city mpg,110,128
+highway mpg vs city mpg,31,21
+highway mpg vs city mpg,23,15
+highway mpg vs city mpg,34,27
+highway mpg vs city mpg,24,17
+highway mpg vs city mpg,21,15
+highway mpg vs city mpg,25,16
+highway mpg vs city mpg,36,23
+highway mpg vs city mpg,29,20
+highway mpg vs city mpg,24,15
+highway mpg vs city mpg,23,14
+highway mpg vs city mpg,19,12
+highway mpg vs city mpg,25,19
+highway mpg vs city mpg,27,18
+highway mpg vs city mpg,22,16
+highway mpg vs city mpg,16,12
+highway mpg vs city mpg,103,121
+highway mpg vs city mpg,34,26
+highway mpg vs city mpg,30,22
+highway mpg vs city mpg,96,118
+highway mpg vs city mpg,25,19
+highway mpg vs city mpg,18,11
+highway mpg vs city mpg,21,14
+highway mpg vs city mpg,40,29
+highway mpg vs city mpg,31,24
+highway mpg vs city mpg,23,17
+highway mpg vs city mpg,22,15
+highway mpg vs city mpg,24,17
+highway mpg vs city mpg,23,15
+highway mpg vs city mpg,27,17
+highway mpg vs city mpg,29,21
+highway mpg vs city mpg,27,20
+highway mpg vs city mpg,23,17
+highway mpg vs city mpg,21,15
+highway mpg vs city mpg,38,30
+highway mpg vs city mpg,37,29
+highway mpg vs city mpg,28,19
+highway mpg vs city mpg,122,150
+highway mpg vs city mpg,34,27
+highway mpg vs city mpg,25,18
+highway mpg vs city mpg,30,22
+highway mpg vs city mpg,27,20
+highway mpg vs city mpg,22,15
+highway mpg vs city mpg,27,25
+highway mpg vs city mpg,39,30
+highway mpg vs city mpg,30,21
+highway mpg vs city mpg,26,18
+highway mpg vs city mpg,23,15
+highway mpg vs city mpg,27,19
+highway mpg vs city mpg,22,14
+highway mpg vs city mpg,31,24
+highway mpg vs city mpg,19,13
+highway mpg vs city mpg,27,21
+highway mpg vs city mpg,22,17
+highway mpg vs city mpg,92,120
+highway mpg vs city mpg,23,15
+highway mpg vs city mpg,33,27
+highway mpg vs city mpg,25,18
+highway mpg vs city mpg,21,14
+highway mpg vs city mpg,17,10
+highway mpg vs city mpg,28,22
+highway mpg vs city mpg,27,20
+highway mpg vs city mpg,23,17
+highway mpg vs city mpg,19,14
+highway mpg vs city mpg,30,22
+highway mpg vs city mpg,28,21
+highway mpg vs city mpg,22,16
+highway mpg vs city mpg,36,39
+highway mpg vs city mpg,28,20
+highway mpg vs city mpg,29,23
+highway mpg vs city mpg,24,16
+highway mpg vs city mpg,24,17
+highway mpg vs city mpg,24,16
+highway mpg vs city mpg,20,14
+highway mpg vs city mpg,34,26
+highway mpg vs city mpg,35,27
+highway mpg vs city mpg,23,16
+highway mpg vs city mpg,82,85
+highway mpg vs city mpg,30,23
+highway mpg vs city mpg,25,19
+highway mpg vs city mpg,22,16
+highway mpg vs city mpg,20,13
+highway mpg vs city mpg,33,24
+highway mpg vs city mpg,102,121
+highway mpg vs city mpg,27,20
+highway mpg vs city mpg,42,35
+highway mpg vs city mpg,31,24
+highway mpg vs city mpg,101,124
+highway mpg vs city mpg,31,26
+highway mpg vs city mpg,26,18
+highway mpg vs city mpg,33,26
+highway mpg vs city mpg,25,18
+highway mpg vs city mpg,20,14
+highway mpg vs city mpg,27,21
+highway mpg vs city mpg,26,19
+highway mpg vs city mpg,21,14
+highway mpg vs city mpg,21,14
+highway mpg vs city mpg,28,21
+highway mpg vs city mpg,24,17
+highway mpg vs city mpg,19,12
+highway mpg vs city mpg,23,14
+highway mpg vs city mpg,39,32
+highway mpg vs city mpg,27,21
+highway mpg vs city mpg,33,25
+highway mpg vs city mpg,28,20
+highway mpg vs city mpg,98,92
+highway mpg vs city mpg,30,23
+highway mpg vs city mpg,35,32
+highway mpg vs city mpg,25,20
+highway mpg vs city mpg,18,13
+highway mpg vs city mpg,28,21
+highway mpg vs city mpg,33,24
+highway mpg vs city mpg,25,18
+highway mpg vs city mpg,29,22
+highway mpg vs city mpg,32,23
+cylinders vs city mpg,4,25
+cylinders vs city mpg,6,21
+cylinders vs city mpg,4,24
+cylinders vs city mpg,6,17
+cylinders vs city mpg,12,12
+cylinders vs city mpg,4,23
+cylinders vs city mpg,6,19
+cylinders vs city mpg,8,17
+cylinders vs city mpg,10,14
+cylinders vs city mpg,4,24
+cylinders vs city mpg,8,13
+cylinders vs city mpg,12,12
+cylinders vs city mpg,4,30
+cylinders vs city mpg,6,23
+cylinders vs city mpg,0,133
+cylinders vs city mpg,2,36
+cylinders vs city mpg,3,28
+cylinders vs city mpg,4,23
+cylinders vs city mpg,6,19
+cylinders vs city mpg,8,15
+cylinders vs city mpg,12,13
+cylinders vs city mpg,4,20
+cylinders vs city mpg,4,23
+cylinders vs city mpg,6,18
+cylinders vs city mpg,4,22
+cylinders vs city mpg,6,17
+cylinders vs city mpg,8,14
+cylinders vs city mpg,4,22
+cylinders vs city mpg,6,18
+cylinders vs city mpg,8,15
+cylinders vs city mpg,4,21
+cylinders vs city mpg,0,128
+cylinders vs city mpg,4,21
+cylinders vs city mpg,8,15
+cylinders vs city mpg,4,27
+cylinders vs city mpg,6,17
+cylinders vs city mpg,8,15
+cylinders vs city mpg,8,16
+cylinders vs city mpg,4,23
+cylinders vs city mpg,6,20
+cylinders vs city mpg,8,15
+cylinders vs city mpg,8,14
+cylinders vs city mpg,10,12
+cylinders vs city mpg,4,19
+cylinders vs city mpg,6,18
+cylinders vs city mpg,8,16
+cylinders vs city mpg,12,12
+cylinders vs city mpg,0,121
+cylinders vs city mpg,4,26
+cylinders vs city mpg,4,22
+cylinders vs city mpg,0,118
+cylinders vs city mpg,4,19
+cylinders vs city mpg,6,11
+cylinders vs city mpg,8,14
+cylinders vs city mpg,3,29
+cylinders vs city mpg,4,24
+cylinders vs city mpg,6,17
+cylinders vs city mpg,8,15
+cylinders vs city mpg,6,17
+cylinders vs city mpg,8,15
+cylinders vs city mpg,6,17
+cylinders vs city mpg,4,21
+cylinders vs city mpg,4,20
+cylinders vs city mpg,6,17
+cylinders vs city mpg,8,15
+cylinders vs city mpg,4,30
+cylinders vs city mpg,4,29
+cylinders vs city mpg,6,19
+cylinders vs city mpg,0,150
+cylinders vs city mpg,4,27
+cylinders vs city mpg,6,18
+cylinders vs city mpg,4,22
+cylinders vs city mpg,6,20
+cylinders vs city mpg,8,15
+cylinders vs city mpg,4,25
+cylinders vs city mpg,4,30
+cylinders vs city mpg,4,21
+cylinders vs city mpg,6,18
+cylinders vs city mpg,8,15
+cylinders vs city mpg,6,19
+cylinders vs city mpg,8,14
+cylinders vs city mpg,4,24
+cylinders vs city mpg,8,13
+cylinders vs city mpg,4,21
+cylinders vs city mpg,6,17
+cylinders vs city mpg,0,120
+cylinders vs city mpg,8,15
+cylinders vs city mpg,4,27
+cylinders vs city mpg,6,18
+cylinders vs city mpg,10,14
+cylinders vs city mpg,12,10
+cylinders vs city mpg,6,22
+cylinders vs city mpg,4,20
+cylinders vs city mpg,6,17
+cylinders vs city mpg,8,14
+cylinders vs city mpg,4,22
+cylinders vs city mpg,6,21
+cylinders vs city mpg,8,16
+cylinders vs city mpg,4,39
+cylinders vs city mpg,6,20
+cylinders vs city mpg,4,23
+cylinders vs city mpg,6,16
+cylinders vs city mpg,6,17
+cylinders vs city mpg,6,16
+cylinders vs city mpg,8,14
+cylinders vs city mpg,4,26
+cylinders vs city mpg,4,27
+cylinders vs city mpg,8,16
+cylinders vs city mpg,0,85
+cylinders vs city mpg,4,23
+cylinders vs city mpg,6,19
+cylinders vs city mpg,8,16
+cylinders vs city mpg,12,13
+cylinders vs city mpg,4,24
+cylinders vs city mpg,0,121
+cylinders vs city mpg,6,20
+cylinders vs city mpg,3,35
+cylinders vs city mpg,4,24
+cylinders vs city mpg,0,124
+cylinders vs city mpg,4,26
+cylinders vs city mpg,6,18
+cylinders vs city mpg,4,26
+cylinders vs city mpg,6,18
+cylinders vs city mpg,8,14
+cylinders vs city mpg,4,21
+cylinders vs city mpg,6,19
+cylinders vs city mpg,8,14
+cylinders vs city mpg,8,14
+cylinders vs city mpg,4,21
+cylinders vs city mpg,6,17
+cylinders vs city mpg,12,12
+cylinders vs city mpg,8,14
+cylinders vs city mpg,3,32
+cylinders vs city mpg,4,21
+cylinders vs city mpg,4,25
+cylinders vs city mpg,6,20
+cylinders vs city mpg,0,92
+cylinders vs city mpg,4,23
+cylinders vs city mpg,4,32
+cylinders vs city mpg,6,20
+cylinders vs city mpg,8,13
+cylinders vs city mpg,4,21
+cylinders vs city mpg,4,24
+cylinders vs city mpg,6,18
+cylinders vs city mpg,4,22
+cylinders vs city mpg,4,23
