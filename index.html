@@ -47,7 +47,7 @@ var svg = d3.select("body").append("svg")
     .append("g")
     .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
 
-d3.csv("l2data.csv", function(error, data) {
+d3.csv("carstest.csv", function(error, data) {
   if (error) throw error;
 
   // Coerce the strings to numbers.
