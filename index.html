@@ -1,18 +1,20 @@
 <!DOCTYPE html>
 <meta charset="utf-8">
+<meta http-equiv='cache-control' content='no-cache'> 
+<meta http-equiv='expires' content='0'> 
+<meta http-equiv='pragma' content='no-cache'>
 
 <!-- Load d3.js -->
 <script src="https://d3js.org/d3.v4.js"></script>
 
 <!-- Create a div where the graph will take place -->
 <div id="my_dataviz"></div>
-
 <script>
 
-// set the dimensions and margins of the graph
+  // set the dimensions and margins of the graph
 var margin = {top: 10, right: 30, bottom: 40, left: 50},
-    width = 520 - margin.left - margin.right,
-    height = 520 - margin.top - margin.bottom;
+    width = 720 - margin.left - margin.right,
+    height = 720 - margin.top - margin.bottom;
 
 // append the svg object to the body of the page
 var svg = d3.select("#my_dataviz")
@@ -33,11 +35,11 @@ svg
     .style("fill", "EBEBEB")
 
 //Read the data
-d3.csv("https://raw.githubusercontent.com/jonathansong241/NarrativeVisualization/main/species.csv", function(data) {
+d3.csv("https://raw.githubusercontent.com/jonathansong241/NarrativeVisualization/main/cars2017.csv", function(data) {
 
   // Add X axis
   var x = d3.scaleLinear()
-    .domain([4*0.95, 8*1.001])
+    .domain([0, 12])
     .range([ 0, width ])
   svg.append("g")
     .attr("transform", "translate(0," + height + ")")
@@ -46,7 +48,7 @@ d3.csv("https://raw.githubusercontent.com/jonathansong241/NarrativeVisualization
 
   // Add Y axis
   var y = d3.scaleLinear()
-    .domain([-0.001, 9*1.01])
+    .domain([0, 122])
     .range([ height, 0])
     .nice()
   svg.append("g")
@@ -61,7 +63,7 @@ d3.csv("https://raw.githubusercontent.com/jonathansong241/NarrativeVisualization
       .attr("text-anchor", "end")
       .attr("x", width/2 + margin.left)
       .attr("y", height + margin.top + 20)
-      .text("Sepal Length");
+      .text("Engine Cylinders");
 
   // Y axis label:
   svg.append("text")
@@ -69,11 +71,11 @@ d3.csv("https://raw.githubusercontent.com/jonathansong241/NarrativeVisualization
       .attr("transform", "rotate(-90)")
       .attr("y", -margin.left + 20)
       .attr("x", -margin.top - height/2 + 20)
-      .text("Petal Length")
+      .text("Average Highway MPG")
 
   // Color scale: give me a specie name, I return a color
   var color = d3.scaleOrdinal()
-    .domain(["setosa", "versicolor", "virginica" ])
+    .domain(["BMW", "Ford", "Chevrolet" ])
     .range([ "#F8766D", "#00BA38", "#619CFF"])
 
   // Add dots
@@ -82,11 +84,12 @@ d3.csv("https://raw.githubusercontent.com/jonathansong241/NarrativeVisualization
     .data(data)
     .enter()
     .append("circle")
-      .attr("cx", function (d) { return x(d.Sepal_Length); } )
-      .attr("cy", function (d) { return y(d.Petal_Length); } )
+      .attr("cx", function (d) { return x(d.EngineCylinders); } )
+      .attr("cy", function (d) { return y(d.AverageHighwayMPG); } )
       .attr("r", 5)
-      .style("fill", function (d) { return color(d.Species) } )
+      .style("fill", function (d) { return color(d.Make) } )
 
 })
 
 </script>
+
