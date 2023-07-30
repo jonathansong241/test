@@ -1,3 +1,4 @@
+<!-- this works -->
 <!DOCTYPE html>
 <meta charset="utf-8">
 <meta http-equiv='cache-control' content='no-cache'> 
@@ -35,11 +36,11 @@ svg
     .style("fill", "EBEBEB")
 
 //Read the data
-d3.csv("https://github.com/jonathansong241/NarrativeVisualization/blob/main/cars2017.csv", function(data) {
+d3.csv("https://raw.githubusercontent.com/jonathansong241/NarrativeVisualization/main/cars2017.csv", function(data) {
 
   // Add X axis
   var x = d3.scaleLinear()
-    .domain([0, 12])
+    .domain([0, 150])
     .range([ 0, width ])
   svg.append("g")
     .attr("transform", "translate(0," + height + ")")
@@ -63,7 +64,7 @@ d3.csv("https://github.com/jonathansong241/NarrativeVisualization/blob/main/cars
       .attr("text-anchor", "end")
       .attr("x", width/2 + margin.left)
       .attr("y", height + margin.top + 20)
-      .text("Engine Cylinders");
+      .text("Average City MPG");
 
   // Y axis label:
   svg.append("text")
@@ -84,7 +85,7 @@ d3.csv("https://github.com/jonathansong241/NarrativeVisualization/blob/main/cars
     .data(data)
     .enter()
     .append("circle")
-      .attr("cx", function (d) { return x(d.EngineCylinders); } )
+      .attr("cx", function (d) { return x(d.AverageCityMPG); } )
       .attr("cy", function (d) { return y(d.AverageHighwayMPG); } )
       .attr("r", 5)
       .style("fill", function (d) { return color(d.Make) } )
