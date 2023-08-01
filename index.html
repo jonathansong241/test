@@ -35,11 +35,11 @@ svg
     .style("fill", "EBEBEB")
 
 //Read the data
-d3.csv("https://raw.githubusercontent.com/jonathansong241/NarrativeVisualization/main/cars2017.csv", function(data) {
+d3.csv("https://raw.githubusercontent.com/jonathansong241/test/main/covid-data.csv", function(data) {
 
   // Add X axis
   var x = d3.scaleLinear()
-    .domain([0, 12])
+    .domain([0, 6966046])
     .range([ 0, width ])
   svg.append("g")
     .attr("transform", "translate(0," + height + ")")
@@ -48,7 +48,7 @@ d3.csv("https://raw.githubusercontent.com/jonathansong241/NarrativeVisualization
 
   // Add Y axis
   var y = d3.scaleLinear()
-    .domain([0, 122])
+    .domain([0, 8347952])
     .range([ height, 0])
     .nice()
   svg.append("g")
@@ -63,7 +63,7 @@ d3.csv("https://raw.githubusercontent.com/jonathansong241/NarrativeVisualization
       .attr("text-anchor", "end")
       .attr("x", width/2 + margin.left)
       .attr("y", height + margin.top + 20)
-      .text("Engine Cylinders");
+      .text("New Cases");
 
   // Y axis label:
   svg.append("text")
@@ -71,11 +71,11 @@ d3.csv("https://raw.githubusercontent.com/jonathansong241/NarrativeVisualization
       .attr("transform", "rotate(-90)")
       .attr("y", -margin.left + 20)
       .attr("x", -margin.top - height/2 + 20)
-      .text("Average Highway MPG")
+      .text("New Deaths")
 
   // Color scale: give me a specie name, I return a color
   var color = d3.scaleOrdinal()
-    .domain(["BMW", "Ford", "Chevrolet" ])
+    .domain(["Asia", "Europe", "Africa" ])
     .range([ "#F8766D", "#00BA38", "#619CFF"])
 
   // Add dots
@@ -84,10 +84,10 @@ d3.csv("https://raw.githubusercontent.com/jonathansong241/NarrativeVisualization
     .data(data)
     .enter()
     .append("circle")
-      .attr("cx", function (d) { return x(d.EngineCylinders); } )
-      .attr("cy", function (d) { return y(d.AverageHighwayMPG); } )
+      .attr("cx", function (d) { return x(d.new_cases); } )
+      .attr("cy", function (d) { return y(d.new_cases); } )
       .attr("r", 5)
-      .style("fill", function (d) { return color(d.Make) } )
+      .style("fill", function (d) { return color(d.continent) } )
 
 })
 
